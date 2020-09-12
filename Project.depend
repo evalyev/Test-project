@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556565080 source:c:\users\Алиночка\desktop\Новая папка\project\main.cpp
+	<string>
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	<time.h>
+	<iostream>
+
